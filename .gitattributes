@@ -12,3 +12,4 @@
 # Use java diff syntax for java files.
 
 *.java diff=java
+
